@@ -1,0 +1,1 @@
+fun id(num:int)(Num:real):int = fin&
